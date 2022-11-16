@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #222;
+    background-color: #222222;
 }
 
 .card {
@@ -14,14 +14,12 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #fff;
-    width: 75%;
-    padding: 14px 18px;
+    background-color: #ffffff;
+    padding: 14px 20px;
     border-radius: 8px;
 }
 
 .content {
-    word-wrap: break-word;
-    color: #000;
-    background-color: #fff;
+    color: #000000;
+    background-color: #ffffff;
 }
